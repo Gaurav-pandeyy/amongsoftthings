@@ -4,7 +4,7 @@ import { useState } from 'react';
 import BlogNavbar from './BlogNavbar';
 import HeroBanner from './HeroBanner';
 import PostCard from './PostCard';
-import Sidebar from './Sidebar';
+import Sidebar from './SideBar';
 import BlogFooter from './BlogFooter';
 import { posts } from './mockData';
 
